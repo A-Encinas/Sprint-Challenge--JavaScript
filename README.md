@@ -34,8 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 2. What is the difference between a function and a method?
 
-Functions are defined outside of a class and a method is within a class
-
+Functions are defined outside of a class and a method is within a class or object
 3. What is closure?
 
 Closure is basically telling you things are secure in the object or class that you are working in the whole code for example it has access to all the global variables
